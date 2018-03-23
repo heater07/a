@@ -1,0 +1,11 @@
+good:
+fruit, vegetable, whole grain, low-fat dairy, fish, nuts
+
+limit:
+red meat, sugary food, sugary drinks
+
+limit-saturated-fat-to-13g:
+butter, cheese, meat, milk
+
+avoid-trans-fat:
+cake, cookie, doughnut, frozen pizza, stick margarine
