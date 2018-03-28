@@ -1,0 +1,11 @@
+presidents
+2017-2018: Donald Trump
+2009-2017: Barak Obama
+2001-2009: George W. Bush
+1993-2001: Bill Clinton
+1989-1993: George H. W. Bush
+1981-1989: Ronald Reagan
+
+presidential-line-of-succession
+vice-president: Mike Pence
+speaker-of-the-house-of-representatives: Paul Ryan
